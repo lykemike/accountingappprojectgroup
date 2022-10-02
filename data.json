@@ -1,0 +1,36 @@
+[
+    {
+        "id": 9,
+        "role_name": "Frontend Developer",
+        "role_desc": null,
+        "RolePrivellege": 
+        [
+            {
+                "menu": 
+                {
+                    "menu_name": "Dashboard"
+                }
+            },
+            {
+                "menu": 
+                {
+                    "menu_name": "Reimbursement"
+                }
+            }
+        ]
+},
+    {
+        "id": 8,
+        "role_name": "Backend Developer",
+        "role_desc": null,
+        "RolePrivellege": 
+        [
+            {
+                "menu": 
+                {
+                    "menu_name": "Dashboard"
+                }
+            }
+        ]
+    }
+]
